@@ -3,7 +3,7 @@
 
 Implementation of a custom Doubly Linked List data structures used as:
 
-- a queue (LIFO) data structure.
+- a queue (FIFO) data structure.
 - a priority queue.
 
 The project requirements are described in 'OOP2_CA3_Project_Nov_2017.pdf' file.
