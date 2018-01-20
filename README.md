@@ -1,5 +1,5 @@
 # A-E-Department-app
-Java application for an hypothetical A&amp;E (accident and emergency) department.
+#### Java application for an hypothetical A&amp;E (accident and emergency) department.
 
 Implementation of a custom Doubly Linked List data structures used as:
 
